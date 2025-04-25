@@ -1,8 +1,5 @@
 {
   "name": "@react-monorepo/manager",
   "version": "0.0.1",
-  "private": true,
-  "nx": {
-    "name": "manager"
-  }
+  "private": true
 }

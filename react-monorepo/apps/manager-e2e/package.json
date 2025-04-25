@@ -1,10 +1,10 @@
 {
-  "name": "manager-e2e",
+  "name": "@react-monorepo/manager-e2e",
   "version": "0.0.1",
   "private": true,
   "nx": {
     "implicitDependencies": [
-      "manager"
+      "@react-monorepo/manager"
     ]
   }
 }
